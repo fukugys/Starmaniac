@@ -2,6 +2,6 @@
 
 side-scroller/platformer/real-time strategy
 
-But, there a lot more  I hope to incorporate from other games
+A work in progress.
 
 starmaniac@proton.me
